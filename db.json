@@ -1,5 +1,31 @@
+  
 {
   "directories": [
-      {"id": 1, "path": "M:\\Contracts\\16-303 Dyer Ave SSO"}
+      {"id": 1, "path": "M:\\Contracts\\16-303 Dyer Ave SSO"}, 
+      {"id": 2, "path": "M:\\Contracts\\15-149 225 E 39th"}, 
+      {"id": 3, "path": "M:\\Contracts\\16-421 701 7th Ave"}, 
+      {"id": 4, "path": "M:\\Contracts\\13-590 American Dream"}, 
+      {"id": 5, "path": "M:\\Contracts\\14-721 MWNT"}, 
+      {"id": 6, "path": "M:\\Contracts\\15-176 Chrysalis Bandshell"}, 
+      {"id": 7, "path": "M:\\Contracts\\14-825 Friends Seminary"}, 
+      {"id": 8, "path": "M:\\Contracts\\14-821 390 Madisson"}, 
+      {"id": 9, "path": "M:\\Contracts\\15-934 111 Murray Street"}, 
+      {"id": 10, "path": "M:\\Contracts\\16-322 Central Park South TMD"}, 
+      {"id": 11, "path": "M:\\Contracts\\16-429 West 59th Street"}, 
+      {"id": 12, "path": "M:\\Contracts\\16-408 Squib bridge"}, 
+      {"id": 13, "path": "M:\\Contracts\\16-483 MoMA Fixtures"}, 
+      {"id": 14, "path": "M:\\Contracts\\16-241 138 East 50th -TMD Roof"}, 
+      {"id": 15, "path": "M:\\Contracts\\16-366 217 West 57 TMD"}, 
+      {"id": 16, "path": "M:\\Contracts\\17-623 Oxford Lobby"}, 
+      {"id": 17, "path": "M:\\Contracts\\17-557 441 9th Avenue Phase 1"}, 
+      {"id": 18, "path": "M:\\Contracts\\17-776 WF Stair 30 Hudson Yard"}, 
+      {"id": 19, "path": "M:\\Contracts\\18-911 BMU_Supp_4_Times_Sqr"}, 
+      {"id": 20, "path": "M:\\Contracts\\15-166 MWSE_Tower"}, 
+      {"id": 21, "path": "M:\\Contracts\\18-105 Google_Stair"}, 
+      {"id": 22, "path": "M:\\Contracts\\WW-959 MW_Warehouse_Exp"}, 
+      {"id": 23, "path": "M:\\Contracts\\19-252 550_Wash_Vault_Steel"}, 
+      {"id": 24, "path": "M:\\Contracts\\18-947 550 Washington"}, 
+      {"id": 25, "path": "M:\\Contracts\\19-408 Millennium Stair"}, 
+      {"id": 26, "path": "M:\\Contracts\\19-418 HSS River Hospital"} 
   ]
 }
